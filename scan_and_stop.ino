@@ -63,7 +63,6 @@ void loop() {
 
   }
 
-
 void stop_scan(){
   move = false;
 }
